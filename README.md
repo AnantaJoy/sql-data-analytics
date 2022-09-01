@@ -18,3 +18,9 @@ Practice:-
 * [Coding Questions](https://platform.stratascratch.com/coding?code_type=3)
 * [LeetCode](https://leetcode.com/problemset/database/)
 * [SQL Interview Questions](https://www.interviewbit.com/sql-interview-questions/#what-is-database)
+---
+PostgreSQL
+---
+* [PostgreSQL Documentation](https://www.postgresql.org/docs/current/index.html)
+* [PostgreSQL](https://www.postgresqltutorial.com/)
+* [PostgreSQL Exercise](https://pgexercises.com/gettingstarted.html)
